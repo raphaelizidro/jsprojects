@@ -1,0 +1,26 @@
+body{ background-color: aquamarine;
+
+
+}
+header{
+           color:green;
+           font: Normal 15pt Arial Black;
+           text-align: center;
+}
+
+section{
+    background-color:aliceblue;
+    width:450px;
+    padding: 20px;
+    height: 300px;
+    margin:auto;
+
+}
+
+footer{
+    text-align: center;
+}
+
+select#flist{
+    width:150px;
+}
