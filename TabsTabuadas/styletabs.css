@@ -1,0 +1,29 @@
+body{
+    background:green;
+
+} section  {
+    
+    margin:auto;
+    background: white;
+    padding: 50px;
+    width: 500px;
+    height: 250px;
+    border-radius: 3px;
+    box-shadow: 3px 3px blue;
+
+}
+
+header{
+
+    text-align: center;
+
+
+}
+
+footer{
+
+    padding: 280px;
+    width:200px;
+    
+    
+}
