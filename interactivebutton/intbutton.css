@@ -1,0 +1,22 @@
+body{
+    background: rgb(58, 4, 151);
+
+}
+
+header{
+      text-align: center;
+}
+
+section{
+
+    background:green;
+    padding: 20px;
+    width:150px;
+    height:150px;
+    margin: auto;
+    text-align: center;
+    line-height: 150px;
+    
+
+}
+
