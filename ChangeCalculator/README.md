@@ -1,7 +1,7 @@
 Purchase Change Calculator
-Ask which product do you want to buy
-Ask how much is the product
-Ask how many($) the user gave to buy the product
+Asks which product do you want to buy
+Asks how much is the product
+Asks how many($) the user gave to buy the product
 User receives the change value (if there is need to change )
 
 Calculadora de troco da compra
