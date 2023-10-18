@@ -10,5 +10,5 @@ Purchase Change Calculator
 4 Pergunta quantos ($) o usuário deu para comprar o produto (guarda informação)
 5 O valor é calculado 
 6 O usuário recebe o valor da alteração (caso haja necessidade de troco)
-![image](https://gyazo.com/5ffc645c203332da96ca0ba4bfe8fbcb)
+![image](https://gyazo.com/5ffc645c203332da96ca0ba4bfe8fbcb.png)
 
