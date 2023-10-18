@@ -10,6 +10,3 @@ Pergunta quanto custa o produto (guarda informação)
 Pergunta quantos ($) o usuário deu para comprar o produto (guarda informação)
 O valor é calculado 
 O usuário recebe o valor da alteração (caso haja necessidade de troco)
-
-
-
